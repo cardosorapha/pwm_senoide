@@ -1,6 +1,6 @@
 # Gerador Senoidal PWM
 
-Esta é uma placa contendo o circuito de uma ponte H transistorizada com base no MOSFET IRF540N. No [esquemático](./pwm_seno.pdf), as conexões estão descritas e separadas em blocos, que fizeram parte do projeto da PCB. Para montar o projeto, uma lista de materiais interativa está disponível [aqui](https://cardosorapha.github.io/audioamp/).
+Esta é uma placa contendo o circuito de uma ponte H transistorizada com base no MOSFET IRF540N. No [esquemático](./pwm_seno.pdf), as conexões estão descritas e separadas em blocos, que fizeram parte do projeto da PCB. Para montar o projeto, uma lista de materiais interativa está disponível [aqui](https://cardosorapha.github.io/pwm_senoide/).
 
 <img src="/imagens/pwm_seno.png" alt="Frente"/>
 
