@@ -699,4 +699,56 @@ Text Notes 6800 2100 0    50   ~ 0
 G3 - MOSFET H-Bridge
 Text Notes 9300 2100 0    50   ~ 0
 G4 - Load and filter
+Wire Notes Line
+	3800 5750 6700 5750
+Wire Notes Line
+	6700 5750 6700 7250
+Wire Notes Line
+	6700 7250 3800 7250
+Wire Notes Line
+	3800 7250 3800 5750
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 5F17BE33
+P 4400 6250
+F 0 "H1" H 4500 6296 50  0000 L CNN
+F 1 "MountingHole" H 4500 6205 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 4400 6250 50  0001 C CNN
+F 3 "~" H 4400 6250 50  0001 C CNN
+	1    4400 6250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 5F17C421
+P 4400 6750
+F 0 "H2" H 4500 6796 50  0000 L CNN
+F 1 "MountingHole" H 4500 6705 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 4400 6750 50  0001 C CNN
+F 3 "~" H 4400 6750 50  0001 C CNN
+	1    4400 6750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 5F17C5A7
+P 5700 6750
+F 0 "H4" H 5600 6704 50  0000 R CNN
+F 1 "MountingHole" H 5600 6795 50  0000 R CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 5700 6750 50  0001 C CNN
+F 3 "~" H 5700 6750 50  0001 C CNN
+	1    5700 6750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 5F17C9F5
+P 5700 6250
+F 0 "H3" H 5600 6204 50  0000 R CNN
+F 1 "MountingHole" H 5600 6295 50  0000 R CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 5700 6250 50  0001 C CNN
+F 3 "~" H 5700 6250 50  0001 C CNN
+	1    5700 6250
+	-1   0    0    1   
+$EndComp
 $EndSCHEMATC
