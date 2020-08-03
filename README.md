@@ -4,9 +4,13 @@ Esta é uma placa contendo o circuito de uma ponte H transistorizada com base no
 
 <img src="/imagens/pwm_seno.png" alt="Frente"/>
 
+<img src="/imagens/10-64.png" alt="Saída no osciloscópio e análise espectral"/>
+
+<img src="/imagens/microfone.png" alt="Sinais recebidos por microfone"/>
+
 ## Uso
 
-TODO
+O projeto para STM32 que gera sinais interpretados por essa placa pode ser encontrado [aqui](https://github.com/cardosorapha/sin_stm). Atenção à potência máxima na saída, calculada como VDC^2/2RL.
 
 ### Alimentação
 
