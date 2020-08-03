@@ -4,12 +4,15 @@ Esta é uma placa contendo o circuito de uma ponte H transistorizada com base no
 
 <p align="center">
 <img src="/imagens/pwm_seno.png" alt="Frente"/>      
+  
 Placa desenvolvida
 
 <img src="/imagens/10-64.png" alt="Saída no osciloscópio e análise espectral"/>
+
 Sinal de saída após filtro e análise de conteúdo harmônico.
 
 <img src="/imagens/microfone.png" alt="Sinais recebidos por microfone"/>
+
 Sinais recebidos por microfone, o número de amostras é o tamanho do vetor utilizado para gerar o seno digitalmente.
 <p>
 
